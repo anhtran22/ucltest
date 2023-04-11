@@ -9,6 +9,8 @@ namespace Test_Environment {
         static void Main(string[] args) {
             Console.WriteLine("");
             Console.WriteLine("WOOOW so nice");
+            Console.WriteLine("What's going on???");
+
             Console.ReadLine(); 
         }
     }
