@@ -8,6 +8,8 @@ namespace Test_Environment {
     internal class Program {
         static void Main(string[] args) {
             Console.WriteLine("");
+            Console.WriteLine("WOOOW so nice");
+            Console.ReadLine(); 
         }
     }
 }
